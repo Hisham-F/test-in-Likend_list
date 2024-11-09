@@ -1,0 +1,38 @@
+
+‚	cpp:S1238";Pass expensive to copy object "Name" by reference to const.(ßõØüûÿÿÿÿ8ªôê°2J$9ca54f7b-fc77-43a8-b472-186390043e6e
+ª	cpp:S3624%"âExplicitly define or delete the missing copy constructor and copy assignment operator so that they will not be implicitly provided. Additionally, you may consider defining the move assignment operator and the move constructor.(Şä³ˆÿÿÿÿÿ8Éùè±2J$5d37339f-bc49-4c18-b42c-842fb977131d
+	cpp:S4963%"IRemove this class' destructor so that the class follows the rule of Zero.(Şä³ˆÿÿÿÿÿ8°ôê°2J$a310b47a-1ddb-4200-915d-73de808a139b
+|	cpp:S50250":Rewrite the code so that you no longer need this "delete".(à±şñ8±Åª±2J$d328d013-d6fe-491c-851b-90d10eb52d9f
+i	cpp:S58274"'Replace the redundant type with "auto".(Éšê‡8¥ĞÄ±2J$b4f58ede-dbb8-496a-b287-c0cd86bf64c5
+“	cpp:S50254"QReplace the use of "new" with an operation that automatically manages the memory.(Éšê‡8¥ĞÄ±2J$d10adee8-b78b-4b3d-811c-9f67b9a11ee0
+|	cpp:S5025H":Rewrite the code so that you no longer need this "delete".(à±şñ8ÁÅª±2J$f2bd0484-c16f-4c35-aabc-3a6c0c4a7fee
+|	cpp:S5025U":Rewrite the code so that you no longer need this "delete".(à±şñ8ÁÅª±2J$9a1082ec-311b-4722-8200-e3a5681fb9f5
+v	cpp:S1709|"/Add the "explicit" keyword to this constructor.(Òó ¶ıÿÿÿÿ8Ğ‹÷±2J$30dbb252-f524-47ea-adb5-7782205558dc
+j	cpp:S5827Œ"'Replace the redundant type with "auto".(ø¬Ô…8Ğ‹÷±2J$000437d3-d570-4be0-874b-562e19f493cb
+”	cpp:S5025Œ"QReplace the use of "new" with an operation that automatically manages the memory.(ø¬Ô…8Ğ‹÷±2J$c9bd99f8-75e8-41c0-b593-7a6fd3835432
+j	cpp:S5827¡"'Replace the redundant type with "auto".(ø¬Ô…8à‹÷±2J$a1a83cf9-4e1a-4076-8d7a-784b8287e9b1
+ycpp:S886ª"2Refactor this loop so that it is less error-prone.(õƒøıÿÿÿÿÿ8à‹÷±2J$e56bcbd9-e1b5-4fac-b5ef-122852ff934d
+”	cpp:S5025¡"QReplace the use of "new" with an operation that automatically manages the memory.(ø¬Ô…8à‹÷±2J$3aa77526-dd1c-4780-b6c7-52191d7468d9
+tcpp:S886¾"2Refactor this loop so that it is less error-prone.(ëğ©™8à‹÷±2J$456c9676-af76-4898-8eaa-2a96b9fdfefe
+|	cpp:S5025Í":Rewrite the code so that you no longer need this "delete".( Ô·}8à‹÷±2J$5bfeda6d-c5f3-46b2-a88e-d1ac832613f8
+|	cpp:S5025»":Rewrite the code so that you no longer need this "delete".( Ô·}8à‹÷±2J$537780a5-f4ee-4af0-b789-2db234ce7a14
+tcpp:S886ß"2Refactor this loop so that it is less error-prone.(Úº™®8à‹÷±2J$61c3dbd2-72ad-4781-9be0-dbb63e155269
+†	cpp:S5566ı"CChange this raw for-loop to a range for-loop or an "std::for_each".(’×ˆı8ğ‹÷±2J$1e07a9c8-468b-46d5-a7e3-004c111d25de
+ˆ	cpp:S6004ö"EUse the init-statement to declare "foundPos" inside the if statement.(‚Ì¿à8¾ÌÊ‘±2J$ef18bac5-555d-4fc8-8135-fe07f4e1fe21
+q	cpp:S3562¢".Add a "default" case to this switch statement.(’ÎÁÄ8ÂÌÊ‘±2J$a0b53dcc-1baa-4e90-991d-602fca0f1954
+x	cpp:S1659Ù"0Define each identifier in a dedicated statement.(Ë‰¬şùÿÿÿÿ8±Ö”‘±2J$08251541-8c15-44f8-9277-092e7f6126d1
+s	cpp:S1659Ú"0Define each identifier in a dedicated statement.(Ò·È‘8±Ö”‘±2J$d92c9257-9e88-4df9-a88e-f7e9969e3c26
+x	cpp:S1659ì"0Define each identifier in a dedicated statement.(ù¹éşÿÿÿÿ8±Ö”‘±2J$d3aa676c-14a0-46f6-95cb-630141b0d83d
+x	cpp:S1659ü"0Define each identifier in a dedicated statement.(å®Í¸ùÿÿÿÿ8²Ö”‘±2J$cf6d04c4-2ad4-4ebb-9c5d-1360faa74565
+®	cpp:S3230*"lDo not use the constructor's initializer list for data member "count". Use the in-class initializer instead.(é’´®8ğİ½±2J$6c0dfc2f-d058-479a-a743-534897dc9abe
+²	cpp:S3230|"kDo not use the constructor's initializer list for data member "prev". Use the in-class initializer instead.(Òó ¶ıÿÿÿÿ8ÿ‹÷±2J$99b508cc-8b3f-4aef-a51b-edefaca6e552
+²	cpp:S3230|"kDo not use the constructor's initializer list for data member "next". Use the in-class initializer instead.(Òó ¶ıÿÿÿÿ8ÿ‹÷±2J$b41ade56-3b7c-4028-9de1-b542225d4ee0
+­	cpp:S3230*"kDo not use the constructor's initializer list for data member "head". Use the in-class initializer instead.(é’´®8£á²±2J$609f4a55-831e-4c90-b607-e9be32d3a1d8
+³	cpp:S3230…"kDo not use the constructor's initializer list for data member "tail". Use the in-class initializer instead.(ßÍ†Åùÿÿÿÿ8ÿ‹÷±2J$67ba2821-4512-4a0d-97c4-87029c052df5
+³	cpp:S3230…"kDo not use the constructor's initializer list for data member "head". Use the in-class initializer instead.(ßÍ†Åùÿÿÿÿ8ÿ‹÷±2J$4055389d-ee7e-4e88-bb3c-001a84131219
+g	cpp:S3529š"Use of memory after it is freed(¨ûÿÖúÿÿÿÿ8›ñÊ‘±2J$664562e8-3004-41bf-8e72-4d1cdb00ec98
+x	cpp:S3584­"0Potential leak of memory pointed to by 'newNode'(¨îÁøÿÿÿÿ8¹›÷±2J$88afcf3b-50f8-44a4-86be-9f0be0f9c2e5
+¥	cpp:S2259İ"bAccess to field 'next' results in a dereference of a null pointer (loaded from variable 'current')(öõ­8œñÊ‘±2J$b94e3c71-c453-493b-a35f-062fb350cbaa
+b	cpp:S3529İ"Use of memory after it is freed(öõ­8Å£í‘±2J$a513a098-e9ff-4f96-82d4-b8df597780f7
+g	cpp:S3529à"Use of memory after it is freed(¨ûÿÖúÿÿÿÿ8Å£í‘±2J$fce8d5be-135b-4864-9b8f-95e7bf7d41cd
+v	cpp:S3584ä"3Potential leak of memory pointed to by 'list2.head'(øî²³8•Í‘±2J$058cac75-dc2f-4994-8fe9-30b8fd013a97

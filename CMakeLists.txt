@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(S3_S4_20210739_20210735_20221237)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(S3_S4_20210739_20210735_20221237 main.cpp)
